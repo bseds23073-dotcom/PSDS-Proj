@@ -1,4 +1,4 @@
-# Limitations and next steps (DRAFT: edit in your own words)
+# Limitations and next steps
 
 This dataset cannot say what causes child mortality to fall. It has five countries and 24 years, but the years within a country move together, so the effective sample is far smaller than the 120 rows suggest, and national averages say nothing about which children or regions are affected (an ecological problem). The outcome is a modelled estimate rather than a count, enrolment is a gross ratio that can overstate participation, and the two most relevant extra indicators (female literacy and skilled birth attendance) are missing for more than half of the country-years.
 
