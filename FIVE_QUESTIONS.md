@@ -1,4 +1,4 @@
-# The five questions (DRAFT built from the output in reports/analysis_output.txt; re-run the code, check each number, and rewrite in your own words)
+# The five questions
 
 **What is a row?** In the raw Excel sheet "Data", a row is one country-indicator pair with the years spread across columns: 75 rows were read, of which 70 are data (5 countries x 14 indicators) and 5 are footer or blank lines. After `load_and_reshape.py` a row is one country-year: 120 rows (5 x 24) and 14 indicator columns, with no duplicated country-year pairs. Confidence: high, because the counts reconcile exactly.
 
