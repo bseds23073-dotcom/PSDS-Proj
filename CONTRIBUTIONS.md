@@ -8,4 +8,4 @@ This project is a pair submission for Part A. We divided the work so that each o
 
 **Declared shares:** Partner 1 65% / Partner 2 35% 
 
-Signed: Mustafa Shahid ______  Ayan Mahmood ______  Date: 11 October 2026
+Signed: Mustafa Shahid  Ayan Mahmood Date: 11 October 2026
