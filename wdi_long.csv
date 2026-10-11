@@ -1,0 +1,1681 @@
+Country Name,Country Code,Series Name,Series Code,year,value
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2000,107.9
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2000,
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2000,3531.712915316124
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2000,2.48079324
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2000,5.352
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2000,36.3820444881262
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2000,87.3443263636155
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2000,72.8
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2000,57.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2000,33.0046884491535
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2000,
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2000,
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,0.614
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2000,0.86511308
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2000,91.8
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2000,38.9118194580078
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2000,3010.421561483975
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2000,4.10568476
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2000,3.35
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2000,14.6638821125248
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2000,79.4918924474821
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2000,60.3
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2000,56.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2000,27.6470407512523
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2000,
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2000,42.5
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,7.589
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2000,0.84906155
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2000,85.5
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2000,47.110969543457
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2000,2712.935122157251
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2000,1.80504513
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2000,3.279
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2000,23.694677075884
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2000,94.5566591015105
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2000,32.0
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2000,74.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2000,23.3145114975244
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2000,
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2000,12.1
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,3.27
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2000,0.50841981
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2000,78.7
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2000,28.1299896240234
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2000,2340.815631412976
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2000,3.13292074
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2000,3.984
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2000,14.8948751074731
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2000,79.4883969819743
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2000,29.9
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2000,71.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2000,31.0994241803849
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2000,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2000,11.9
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,10.531
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2000,0.4859271
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2000,16.3
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2000,
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2000,6428.613418891281
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2000,4.10818672
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2000,2.213
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2000,76.8072668848757
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2000,83.6750656092532
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2000,70.3
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2000,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2000,14.6196895000898
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2000,
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2000,96.0
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,7.74
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2000,2.20320439
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2001,105.1
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2001,
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2001,3559.7278465871473
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2001,2.33959723
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2001,5.182
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2001,36.4704767337174
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2001,87.5860762080419
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2001,73.9
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2001,59.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2001,33.1988471664032
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2001,
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2001,23.0
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,0.611
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2001,0.8166225
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2001,88.1
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2001,38.7999687194824
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2001,3097.1622402234216
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2001,4.33754253
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2001,3.303
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2001,17.2206798996747
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2001,80.0659857611388
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2001,62.0
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2001,57.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2001,27.9028652096636
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2001,47.8400001525879
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2001,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,7.611
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2001,0.81879407
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2001,80.2
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2001,50.0232887268066
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2001,2803.554719509463
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2001,1.77201855
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2001,3.203
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2001,25.1767692981385
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2001,94.7286986016594
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2001,35.0
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2001,77.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2001,23.6999214768623
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2001,40.8199996948242
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2001,12.0
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,3.609
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2001,0.38396508
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2001,74.3
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2001,30.6444206237793
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2001,2413.8142127556043
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2001,3.81229901
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2001,3.793
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2001,17.3959627043357
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2001,80.1670910944801
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2001,24.6
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2001,71.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2001,32.808952331543
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2001,34.8899993896484
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2001,10.9
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,10.502
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2001,0.58420616
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2001,15.8
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2001,
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2001,6230.030518635589
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2001,4.05662823
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2001,2.283
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2001,77.6040116337401
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2001,83.9203655866914
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2001,63.6
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2001,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2001,14.5739539539707
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2001,89.1399993896484
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2001,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,7.9
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2001,2.13245368
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2002,102.5
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2002,
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2002,3563.6784692655765
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2002,2.42219901
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2002,5.012
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2002,36.5597990039308
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2002,87.8248146353087
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2002,74.9
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2002,60.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2002,33.3857078542752
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2002,
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2002,23.0
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,0.615
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2002,0.90022832
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2002,84.6
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2002,41.3250694274902
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2002,3157.2690377059253
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2002,4.31453371
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2002,3.217
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2002,19.9645829063411
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2002,80.7684916224213
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2002,62.3
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2002,56.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2002,28.1756878910456
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2002,
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2002,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,7.681
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2002,0.78371018
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2002,75.3
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2002,51.7350006103516
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2002,2866.434543287154
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2002,1.93417108
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2002,3.126
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2002,26.6816894127761
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2002,94.9052687199245
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2002,37.8
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2002,75.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2002,24.1132383547332
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2002,
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2002,
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,3.966
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2002,0.47014153
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2002,70.2
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2002,34.2659187316895
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2002,2380.244245875713
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2002,3.93863344
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2002,3.604
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2002,19.8888097263775
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2002,80.8065175847141
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2002,36.4
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2002,71.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2002,35.0358944291182
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2002,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2002,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,10.593
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2002,0.79272741
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2002,15.5
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2002,
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2002,6409.862788921148
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2002,4.03715754
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2002,2.31
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2002,78.4039232794379
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2002,84.1981104690897
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2002,80.7
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2002,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2002,14.6107836754127
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2002,
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2002,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,8.76
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2002,2.15791655
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2003,100.1
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2003,
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2003,3668.779388525078
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2003,2.10399199
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2003,4.894
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2003,36.6491235332267
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2003,88.062537100299
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2003,76.0
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2003,62.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2003,33.5669209665019
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2003,
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2003,
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,0.612
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2003,0.5118525
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2003,81.1
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2003,45.5992889404297
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2003,3346.888290291497
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2003,4.07877731
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2003,3.122
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2003,22.7256519741888
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2003,81.4693446422868
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2003,65.4
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2003,60.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2003,28.4660287698
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2003,
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2003,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,7.633
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2003,0.76340038
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2003,70.8
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2003,51.6876182556152
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2003,2958.9150311563326
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2003,1.96152198
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2003,3.029
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2003,28.1772949701868
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2003,95.0805824631407
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2003,40.5
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2003,76.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2003,24.5525557512625
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2003,
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2003,13.9
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,4.32
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2003,0.48277113
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2003,66.5
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2003,35.8331108093262
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2003,2439.4947960155573
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2003,3.8560729
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2003,3.439
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2003,22.4289482098159
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2003,81.4416869635326
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2003,39.6
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2003,75.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2003,38.045308394296
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2003,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2003,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,10.644
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2003,0.66023707
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2003,15.2
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2003,
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2003,6741.012488480237
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2003,3.64646697
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2003,2.301
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2003,79.2069755512289
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2003,84.4762345244091
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2003,75.0
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2003,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2003,14.7256630416211
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2003,
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2003,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,8.22
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2003,2.00852442
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2004,98.0
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2004,
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2004,3859.6460180890263
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2004,2.03666282
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2004,4.685
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2004,38.3533268350512
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2004,88.2993740055727
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2004,77.0
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2004,63.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2004,33.7441369568158
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2004,
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2004,
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,0.598
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2004,0.54709041
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2004,77.7
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2004,47.2715797424316
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2004,3551.0473121377263
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2004,4.02679491
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2004,3.046
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2004,25.504088846955
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2004,82.1686302902513
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2004,64.4
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2004,64.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2004,28.7726067228528
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2004,
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2004,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,7.598
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2004,0.72411484
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2004,66.8
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2004,46.7358283996582
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2004,3071.8377876461095
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2004,1.99854314
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2004,2.94
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2004,29.6630423579707
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2004,95.2545490019723
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2004,40.6
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2004,81.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2004,25.0094809886101
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2004,
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2004,13.2
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,4.316
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2004,0.48091501
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2004,63.1
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2004,
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2004,2521.5410517142755
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2004,4.04629898
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2004,3.279
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2004,25.0160431336895
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2004,82.0725089382401
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2004,37.2
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2004,73.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2004,41.6109470808194
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2004,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2004,15.8
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,10.652
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2004,0.64692318
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2004,29.0
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2004,
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2004,7059.910980671019
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2004,4.03912592
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2004,2.271
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2004,80.0131764124299
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2004,84.7545829171958
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2004,76.5
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2004,96.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2004,14.9130061059922
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2004,
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2004,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,8.38
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2004,2.12875676
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2005,96.0
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2005,
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2005,4042.154575133781
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2005,2.37323904
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2005,4.595
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2005,40.051948707326
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2005,87.9858227113677
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2005,78.1
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2005,61.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2005,33.9190062789495
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2005,35.3699989318848
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2005,31.0
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,0.583
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2005,0.51540869
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2005,74.3
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2005,50.2120513916016
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2005,3770.396531738293
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2005,3.85508275
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2005,2.958
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2005,28.2988919138167
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2005,82.8660018054267
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2005,68.8
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2005,68.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2005,29.0945497159107
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2005,
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2005,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,7.551
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2005,0.77590197
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2005,63.0
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2005,46.4920997619629
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2005,3231.6137069289107
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2005,2.05873919
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2005,2.846
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2005,31.4358349503108
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2005,95.4615869207047
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2005,44.2
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2005,88.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2005,25.4769540701509
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2005,
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2005,
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,4.25
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2005,0.45040676
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2005,60.0
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2005,40.9631500244141
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2005,2580.231063083642
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2005,3.95095325
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2005,3.115
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2005,27.6497562651801
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2005,82.6989066918082
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2005,46.1
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2005,74.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2005,45.5065633424317
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2005,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2005,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,10.59
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2005,0.75322849
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2005,14.0
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2005,
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2005,7452.742341229704
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2005,3.87908745
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2005,2.263
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2005,80.8225453170759
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2005,85.0330281014666
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2005,78.1
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2005,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2005,15.167273918248
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2005,
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2005,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,7.67
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2005,2.04192138
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2006,94.2
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2006,23.8528308868408
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2006,4185.866556592057
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2006,2.73132491
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2006,4.589
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2006,41.8712078550453
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2006,88.1422644667259
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2006,79.1
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2006,59.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2006,34.0931793866356
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2006,39.6100006103516
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2006,56.0
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,0.582
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2006,0.4643316
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2006,71.0
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2006,51.390209197998
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2006,4011.0864758580465
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2006,3.66901541
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2006,2.867
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2006,31.1102746501892
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2006,83.5615500374212
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2006,67.9
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2006,69.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2006,29.4309857146804
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2006,50.8199996948242
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2006,46.6
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,7.553
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2006,0.75237411
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2006,59.6
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2006,46.8596611022949
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2006,3407.4273502159035
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2006,2.10646582
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2006,2.755
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2006,33.2264398318266
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2006,95.6665612927773
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2006,50.5
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2006,83.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2006,25.9479149992596
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2006,
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2006,20.1
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,3.591
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2006,0.47882023
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2006,57.3
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2006,39.2674293518066
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2006,2641.347994947486
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2006,3.54402447
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2006,2.967
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2006,30.3297393254008
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2006,83.3207910288118
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2006,51.2
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2006,85.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2006,49.5059100328759
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2006,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2006,18.7
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,10.609
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2006,0.84708959
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2006,13.3
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2006,
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2006,7970.664910193901
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2006,3.85019565
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2006,2.292
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2006,81.6350563894259
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2006,85.3118425923699
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2006,82.0
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2006,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2006,15.4829275281105
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2006,89.0899963378906
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2006,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,6.5
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2006,1.96220529
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2007,92.3
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2007,25.1138095855713
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2007,4257.925568704323
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2007,2.62370729
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2007,4.554
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2007,43.6965924516825
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2007,88.3130427829655
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2007,80.2
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2007,57.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2007,34.2683067336065
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2007,38.4599990844727
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2007,38.8
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,0.398
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2007,0.45476291
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2007,67.8
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2007,54.4490394592285
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2007,4253.821390467393
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2007,3.58103991
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2007,2.775
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2007,33.9383850862219
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2007,84.2553439378038
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2007,72.3
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2007,70.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2007,29.7810426848684
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2007,
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2007,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,7.562
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2007,0.74839747
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2007,56.5
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2007,47.5436897277832
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2007,3608.915438193992
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2007,2.17268491
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2007,2.666
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2007,35.0339772895148
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2007,95.8693613830189
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2007,46.5
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2007,89.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2007,26.415303779311
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2007,
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2007,18.0
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,4.015
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2007,0.48857561
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2007,54.7
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2007,39.5153884887695
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2007,2708.714392258897
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2007,3.67297482
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2007,2.857
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2007,33.0557887006794
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2007,83.9381629345447
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2007,52.6
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2007,81.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2007,53.3827400058951
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2007,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2007,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,10.642
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2007,0.67827111
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2007,12.6
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2007,
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2007,8454.206753315046
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2007,3.82258177
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2007,2.295
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2007,82.4507307606243
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2007,85.590756668861
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2007,80.0
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2007,98.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2007,15.8544279853018
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2007,
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2007,98.6
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,5.97
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2007,1.85378098
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2008,90.5
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2008,25.1925296783447
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2008,4233.348307154973
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2008,2.56806731
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2008,4.515
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2008,45.5276108650431
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2008,88.4820319386941
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2008,81.4
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2008,56.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2008,34.4460387735948
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2008,40.0800018310547
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2008,40.0
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,0.423
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2008,0.40099064
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2008,64.5
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2008,58.1668281555176
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2008,4322.483789835463
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2008,3.58856082
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2008,2.711
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2008,36.7829765979312
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2008,84.9473094624581
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2008,74.1
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2008,72.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2008,30.1438485921815
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2008,
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2008,52.3
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,7.629
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2008,0.8119961
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2008,53.6
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2008,47.0520896911621
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2008,3787.9382761855027
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2008,2.11878848
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2008,2.577
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2008,36.8575848438424
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2008,96.0698868772065
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2008,54.3
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2008,92.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2008,26.87206041368
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2008,
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2008,
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,4.49
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2008,0.44322866
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2008,52.4
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2008,45.707649230957
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2008,2852.60983167965
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2008,3.81756353
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2008,2.737
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2008,35.8273714281674
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2008,84.5508362701857
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2008,56.0
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2008,79.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2008,56.9108061152324
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2008,43.3396725291169
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2008,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,10.597
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2008,0.71121174
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2008,12.0
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2008,
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2008,8897.826860050161
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2008,3.85482955
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2008,2.232
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2008,83.2695498205745
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2008,85.8700345787064
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2008,82.9
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2008,98.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2008,16.2762363395441
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2008,89.0699996948242
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2008,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,5.22
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2008,1.66602755
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2009,88.5
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2009,25.688850402832
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2009,4270.438822642294
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2009,2.49995875
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2009,4.465
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2009,47.3641982720808
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2009,88.6492343131649
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2009,82.5
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2009,56.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2009,34.6280259603331
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2009,40.310001373291
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2009,41.0
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,0.535
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2009,0.51264632
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2009,61.2
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2009,58.6507301330566
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2009,4595.379907538119
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2009,3.54637694
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2009,2.674
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2009,39.6431708126058
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2009,85.6371461321776
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2009,75.0
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2009,78.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2009,30.5185314023263
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2009,
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2009,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,7.636
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2009,0.90823442
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2009,51.1
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2009,49.7001609802246
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2009,3942.136312072034
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2009,2.18321705
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2009,2.484
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2009,38.6964226448975
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2009,96.2680515706038
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2009,57.1
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2009,93.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2009,27.3111249057412
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2009,
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2009,24.4
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,5.0
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2009,0.43522108
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2009,50.1
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2009,46.5078506469727
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2009,2961.8390036591213
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2009,3.90179515
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2009,2.63
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2009,38.6441196454107
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2009,85.158729874995
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2009,59.3
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2009,90.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2009,59.8638612146309
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2009,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2009,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,10.582
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2009,0.7965219
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2009,21.5
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2009,
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2009,9156.319064812642
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2009,4.05676842
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2009,2.179
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2009,84.0915264944886
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2009,86.149546290692
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2009,87.1
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2009,97.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2009,16.7428136405592
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2009,
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2009,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,5.85
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2009,1.64707983
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2010,86.5
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2010,25.4582159212789
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2010,4228.7817715945
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2010,2.42967653
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2010,4.398
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2010,49.2066353675779
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2010,88.8147345072875
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2010,87.1
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2010,57.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2010,34.8159187475539
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2010,41.0200004577637
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2010,
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,0.653
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2010,0.52930099
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2010,58.1
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2010,62.3437995910645
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2010,4913.876397237052
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2010,3.33625913
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2010,2.598
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2010,42.5191116694177
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2010,86.3249166723471
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2010,76.3
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2010,82.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2010,30.9042190810094
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2010,57.6517318985171
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2010,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,7.631
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2010,0.87431055
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2010,48.7
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2010,52.0766891151976
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2010,4125.463901632016
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2010,2.28807664
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2010,2.38
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2010,40.550092213975
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2010,96.4638392169857
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2010,55.3
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2010,88.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2010,27.7254372588696
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2010,
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2010,26.5
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,3.379
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2010,0.47062662
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2010,47.9
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2010,55.0515098571777
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2010,3085.3140700450167
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2010,4.36131525
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2010,2.541
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2010,41.5056568805896
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2010,85.7617588960131
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2010,68.6
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2010,86.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2010,62.0156581578338
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2010,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2010,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,10.563
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2010,0.79064077
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2010,11.2
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2010,92.7051773071289
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2010,9832.186223352654
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2010,3.7414515
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2010,2.134
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2010,84.916653598686
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2010,86.4291556311836
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2010,85.3
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2010,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2010,17.2486209380693
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2010,89.9599990844727
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2010,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,4.784
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2010,1.51292467
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2011,84.3
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2011,25.3949380688813
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2011,4246.067108824967
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2011,2.23121333
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2011,4.305
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2011,51.0548082670217
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2011,88.978515573403
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2011,87.8
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2011,59.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2011,35.0113675889897
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2011,41.9799995422363
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2011,43.0
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,0.796
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2011,0.45581207
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2011,55.0
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2011,64.624397277832
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2011,5098.674587754443
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2011,3.24634218
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2011,2.532
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2011,45.4108795020998
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2011,87.0106732998892
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2011,79.5
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2011,84.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2011,31.2746502853309
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2011,59.2799987792969
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2011,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,7.609
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2011,0.93731916
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2011,46.5
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2011,52.972846971647
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2011,4352.42643359325
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2011,2.36418128
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2011,2.309
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2011,42.417588032588
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2011,96.6571382365005
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2011,59.6
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2011,93.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2011,28.1100162712427
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2011,55.1199989318848
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2011,31.7
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,3.737
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2011,0.4823136
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2011,45.8
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2011,59.230411529541
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2011,3176.650406024168
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2011,4.45220184
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2011,2.462
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2011,44.4117125540755
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2011,86.3599023849968
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2011,67.3
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2011,88.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2011,63.139949798584
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2011,48.8400001525879
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2011,36.0
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,10.627
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2011,0.79661524
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2011,10.8
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2011,95.112060546875
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2011,10618.492599972198
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2011,3.5819521
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2011,2.144
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2011,85.744932124631
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2011,86.7091246125712
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2011,87.8
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2011,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2011,17.7881192817964
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2011,
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2011,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,4.118
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2011,1.52385986
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2012,82.0
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2012,25.7528705596924
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2012,4292.021102934858
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2012,2.22185278
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2012,4.204
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2012,52.9086096866619
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2012,89.1405658210321
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2012,88.6
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2012,63.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2012,35.2160229383731
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2012,43.0699996948242
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2012,51.0
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,3.667
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2012,0.61600071
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2012,52.0
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2012,67.4936981201172
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2012,5303.501977676549
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2012,3.32935286
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2012,2.47
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2012,48.3205923569019
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2012,87.6951918936397
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2012,79.9
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2012,83.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2012,31.5898935604399
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2012,59.9377489448701
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2012,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,7.645
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2012,0.93186861
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2012,44.4
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2012,54.6677284240723
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2012,4592.048409198117
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2012,2.3537879
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2012,2.263
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2012,44.2975869340688
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2012,96.8477733718652
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2012,65.5
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2012,88.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2012,28.4787972894576
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2012,54.2400016784668
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2012,
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,4.07
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2012,0.46968287
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2012,43.7
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2012,64.4251327514648
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2012,3316.500734520208
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2012,4.49078751
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2012,2.42
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2012,47.3622706946734
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2012,86.9532837280701
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2012,75.2
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2012,86.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2012,63.6558406194333
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2012,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2012,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,10.632
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2012,0.78674734
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2012,10.3
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2012,97.1849975585938
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2012,11447.693773778228
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2012,3.30659294
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2012,2.173
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2012,86.576365798464
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2012,86.9893246653002
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2012,87.0
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2012,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2012,18.2617686748284
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2012,
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2012,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,3.88
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2012,1.39617562
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2013,79.6
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2013,26.3995425354199
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2013,4407.147058413765
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2013,2.4164784
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2013,4.125
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2013,54.7673079838163
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2013,89.3007289268109
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2013,89.3
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2013,68.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2013,35.4315352494366
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2013,41.9700012207031
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2013,52.1
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,2.954
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2013,0.63381839
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2013,49.1
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2013,69.2553634643555
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2013,5567.4943941871825
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2013,3.74944186
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2013,2.399
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2013,51.2472926178236
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2013,88.3781430142448
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2013,83.1
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2013,83.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2013,31.9096789235237
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2013,
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2013,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,7.678
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2013,0.86504197
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2013,42.4
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2013,57.4183984304764
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2013,4822.726213782659
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2013,2.29574466
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2013,2.247
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2013,46.1890615570129
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2013,97.035648544406
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2013,61.5
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2013,91.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2013,28.8407036106763
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2013,57.7900009155273
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2013,36.5
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,4.426
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2013,0.4372614
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2013,41.7
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2013,67.1050796508789
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2013,3426.5579593795983
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2013,4.63012981
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2013,2.36
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2013,50.3565022636622
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2013,87.5415795968781
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2013,77.4
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2013,88.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2013,64.1314570156048
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2013,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2013,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,10.666
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2013,0.75677603
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2013,9.8
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2013,97.8860232469157
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2013,12249.722334784601
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2013,3.69365358
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2013,2.178
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2013,87.410942249761
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2013,87.2717415635994
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2013,90.2
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2013,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2013,18.4323136480916
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2013,
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2013,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,4.186
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2013,1.6775682
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2014,77.2
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2014,28.5600893522118
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2014,4520.234633992859
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2014,2.48899078
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2014,4.055
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2014,56.6314636170423
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2014,89.4591472805659
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2014,90.1
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2014,71.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2014,35.6595549759128
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2014,44.2799987792969
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2014,
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,1.827
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2014,0.60478491
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2014,46.4
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2014,74.7539901733398
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2014,5905.106182046329
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2014,3.61956549
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2014,2.293
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2014,54.1905506719672
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2014,89.0593975763785
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2014,85.1
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2014,85.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2014,32.2288233408821
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2014,
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2014,81.4
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,7.656
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2014,0.85653549
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2014,40.5
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2014,
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2014,5068.639656727411
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2014,2.27915168
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2014,2.228
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2014,48.091854377096
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2014,97.220803624287
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2014,62.4
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2014,94.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2014,29.1944442321013
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2014,57.8600006103516
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2014,42.1
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,4.417
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2014,0.4220427
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2014,39.7
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2014,69.3774108886719
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2014,3621.7316893711227
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2014,5.07549381
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2014,2.319
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2014,53.394175397633
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2014,88.1248062062868
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2014,84.9
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2014,88.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2014,64.5640847098488
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2014,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2014,55.6
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,10.62
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2014,0.87364674
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2014,9.2
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2014,96.1411697667469
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2014,12909.966306811311
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2014,3.46786141
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2014,2.134
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2014,88.2487200055783
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2014,87.5563586215225
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2014,92.7
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2014,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2014,18.6153877203724
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2014,91.7039906581343
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2014,99.95
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,4.157
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2014,1.55114651
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2015,74.8
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2015,30.3251040463428
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2015,4645.286310711446
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2015,2.49493265
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2015,3.988
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2015,58.5009708232225
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2015,89.6158196961384
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2015,91.0
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2015,75.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2015,35.9017325715342
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2015,
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2015,59.0
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,3.566
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2015,0.686643
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2015,43.7
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2015,74.3924407958984
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2015,6301.673469682361
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2015,3.59565973
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2015,2.289
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2015,57.1496392627885
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2015,89.7387066732488
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2015,88.0
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2015,87.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2015,32.5472990022299
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2015,
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2015,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,7.629
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2015,0.92193186
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2015,38.5
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2015,62.5832710266113
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2015,5352.711332995656
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2015,2.27217698
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2015,2.227
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2015,50.0050245547683
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2015,97.4031438216165
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2015,74.0
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2015,97.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2015,29.5395099477892
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2015,62.25
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2015,
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,4.397
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2015,0.38844827
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2015,37.8
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2015,70.6879119873047
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2015,3745.261822494766
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2015,5.46615553
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2015,2.273
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2015,56.4745599225782
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2015,88.7026979901049
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2015,82.0
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2015,85.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2015,64.9510094249155
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2015,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2015,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,10.643
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2015,0.90927744
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2015,8.7
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2015,97.2124296159383
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2015,13329.779343882034
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2015,3.6826396
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2015,2.09
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2015,89.0897723399477
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2015,87.8430484990773
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2015,94.3
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2015,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2015,18.796256612131
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2015,91.7243434027113
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2015,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,4.519
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2015,1.61882555
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2016,72.4
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2016,31.73991038953
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2016,4886.612121153781
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2016,2.57026362
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2016,3.902
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2016,60.3757049658476
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2016,89.7707150440618
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2016,91.8
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2016,75.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2016,36.1597184900333
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2016,
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2016,
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,2.285
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2016,0.70141035
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2016,41.3
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2016,75.823371887207
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2016,6741.148831853469
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2016,3.50430417
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2016,2.284
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2016,60.1238284933312
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2016,90.4158282525921
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2016,89.6
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2016,88.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2016,32.8650780972823
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2016,
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2016,81.4
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,7.611
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2016,0.94049966
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2016,36.7
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2016,66.9120125277375
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2016,5682.535534943063
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2016,2.38938212
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2016,2.227
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2016,51.9283001377065
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2016,97.5826981722131
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2016,75.9
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2016,97.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2016,29.8753915517965
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2016,69.9000015258789
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2016,49.8
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,4.35
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2016,0.4755646
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2016,36.0
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2016,73.9553375244141
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2016,3743.744578357797
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2016,5.42378998
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2016,2.226
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2016,59.5972467919298
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2016,89.2751913988418
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2016,90.7
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2016,83.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2016,65.2895168835553
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2016,55.75
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2016,58.0
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,10.714
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2016,1.00771654
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2016,8.3
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2016,96.5253510453528
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2016,13845.614678221817
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2016,3.61788416
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2016,2.062
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2016,89.9341591246989
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2016,88.13156471936
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2016,97.5
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2016,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2016,18.9747679368162
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2016,91.4899978637695
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2016,99.5
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,4.242
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2016,1.56008303
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2017,70.1
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2017,31.2563221783058
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2017,5031.560607384335
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2017,2.7863009
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2017,3.9
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2017,62.2553089946578
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2017,89.9237776878555
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2017,92.7
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2017,76.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2017,36.4351548223399
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2017,46.4700012207031
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2017,
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,3.204
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2017,0.91277653
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2017,39.0
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2017,74.2236328125
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2017,7116.036591853959
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2017,2.93597651
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2017,2.193
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2017,63.1125583715917
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2017,91.0905825625786
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2017,91.8
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2017,90.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2017,33.1821328157539
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2017,
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2017,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,7.626
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2017,0.96734685
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2017,35.0
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2017,66.8206080291299
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2017,6005.707187810483
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2017,2.36720181
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2017,2.205
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2017,53.861024982081
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2017,97.7594255729943
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2017,88.0
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2017,97.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2017,30.2015798381799
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2017,70.0899963378906
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2017,67.8
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,4.372
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2017,0.50250494
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2017,34.2
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2017,77.7481231689453
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2017,4071.704317557979
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2017,4.72174025
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2017,2.173
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2017,62.7615781748289
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2017,89.8420840030234
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2017,86.6
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2017,90.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2017,65.5768928085184
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2017,57.1239801716481
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2017,58.0
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,10.66
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2017,1.06542635
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2017,7.9
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2017,97.5062635264586
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2017,14572.485821461642
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2017,3.33093429
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2017,2.044
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2017,90.7819310655448
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2017,88.4218720472391
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2017,97.5
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2017,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2017,19.1507693078088
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2017,90.9700012207031
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2017,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,4.046
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2017,1.36585641
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2018,67.9
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2018,33.7539426003326
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2018,5255.06350681272
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2018,2.82844949
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2018,3.855
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2018,64.1435342442995
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2018,90.0758470234098
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2018,93.4
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2018,79.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2018,36.7478511550359
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2018,45.4000015258789
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2018,69.3
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,4.083
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2018,0.93618691
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2018,36.9
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2018,75.5565032958984
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2018,7492.6257675514535
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2018,2.8584938
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2018,2.184
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2018,66.1148742165368
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2018,91.7626505318817
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2018,95.7
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2018,93.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2018,33.4984353473598
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2018,65.2235287519263
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2018,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,7.652
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2018,0.98024821
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2018,33.5
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2018,69.0192069270982
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2018,6392.5933402409055
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2018,2.31622243
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2018,2.193
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2018,55.8026895798661
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2018,97.933316165493
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2018,86.9
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2018,97.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2018,30.5175656009959
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2018,71.1800003051758
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2018,52.7
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,4.439
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2018,0.48568422
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2018,32.6
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2018,
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2018,4371.385717718967
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2018,4.52845383
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2018,2.12
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2018,65.966994107957
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2018,90.4032337065468
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2018,93.9
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2018,91.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2018,65.8104229225551
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2018,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2018,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,10.593
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2018,1.06721246
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2018,7.6
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2018,99.2050919963165
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2018,14759.82489452264
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2018,3.6418879
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2018,2.033
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2018,91.6331770755008
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2018,88.7139577159347
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2018,99.6
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2018,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2018,19.3241083384127
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2018,90.8000030517578
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2018,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,4.318
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2018,1.66403663
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2019,65.8
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2019,35.5736865644319
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2019,5295.952951382034
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2019,2.84736943
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2019,3.81
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2019,66.0398368746477
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2019,90.2267743289886
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2019,93.9
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2019,81.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2019,37.1091631735769
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2019,46.4900016784668
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2019,73.7
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,4.83
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2019,0.94332874
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2019,34.9
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2019,75.6416931152344
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2019,7702.176348119574
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2019,2.95299792
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2019,2.12
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2019,69.1300220717047
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2019,92.4317828217009
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2019,95.9
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2019,95.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2019,33.8139578818147
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2019,66.9856882300986
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2019,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,6.51
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2019,1.03550148
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2019,32.3
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2019,68.6082490748818
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2019,6838.326116082433
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2019,2.12712646
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2019,2.18
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2019,57.7528738554199
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2019,98.1043633059551
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2019,92.2
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2019,97.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2019,30.8228396343012
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2019,71.9499969482422
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2019,59.0
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,4.504
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2019,0.36105901
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2019,31.0
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2019,84.223991394043
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2019,4607.524547171124
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2019,4.44524717
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2019,2.08
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2019,69.2128409973963
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2019,90.9584624626018
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2019,89.9
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2019,92.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2019,65.9873929484157
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2019,59.4099998474121
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2019,77.2
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,10.477
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2019,1.10283434
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2019,7.2
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2019,
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2019,14637.444291267593
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2019,3.70119572
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2019,2.022
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2019,92.4879479800339
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2019,89.0074705240203
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2019,99.8
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2019,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2019,19.4946326418437
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2019,91.5800018310547
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2019,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,4.67
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2019,1.73423195
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2020,63.7
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2020,
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2020,5135.014592888394
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2020,2.95273018
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2020,3.765
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2020,67.9433820948755
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2020,90.3763302585524
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2020,94.5
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2020,83.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2020,37.5080192948099
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2020,
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2020,68.0
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,5.994
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2020,1.03975642
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2020,33.0
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2020,76.5541213427966
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2020,7186.864470996788
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2020,3.34146094
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2020,2.047
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2020,72.0482326780192
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2020,93.0977309081783
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2020,96.5
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2020,89.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2020,34.1286726088333
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2020,67.5732651200292
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2020,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,7.859
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2020,1.21139216
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2020,31.4
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2020,71.128750711381
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2020,7015.197927970561
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2020,2.18254924
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2020,2.175
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2020,59.7111659386902
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2020,98.2725719690138
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2020,96.2
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2020,97.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2020,31.1168927321524
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2020,72.0
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2020,
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,5.539
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2020,0.35576752
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2020,29.6
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2020,87.491828918457
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2020,4412.5420439395
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2020,5.2080965
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2020,2.051
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2020,72.4985122908231
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2020,91.5076217588488
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2020,89.9
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2020,87.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2020,66.1050886088505
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2020,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2020,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,13.037
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2020,1.5651871
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2020,6.9
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2020,
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2020,13886.651372868899
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2020,4.27431631
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2020,2.007
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2020,93.3463184770693
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2020,89.3024800646489
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2020,100.0
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2020,96.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2020,19.6621898312161
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2020,91.5999984741211
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2020,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,5.364
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2020,2.15588403
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2021,61.7
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2021,36.7848892672203
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2021,5367.273647147621
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2021,2.99015832
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2021,3.72
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2021,69.8533376726557
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2021,90.5243087608224
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2021,94.9
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2021,81.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2021,37.9333395514173
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2021,48.5200004577637
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2021,
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,6.338
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2021,1.1115458
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2021,31.2
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2021,78.4542146302356
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2021,7818.657017575041
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2021,3.34680939
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2021,2.014
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2021,74.9328568041953
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2021,93.760281159736
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2021,99.6
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2021,89.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2021,34.4425517181304
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2021,68.2001669604087
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2021,89.4
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,6.38
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2021,1.35207272
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2021,30.9
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2021,75.089641669915
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2021,7441.069139612541
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2021,2.26678729
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2021,2.173
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2021,61.6770898454809
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2021,98.4379436580879
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2021,99.0
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2021,97.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2021,31.3992156886061
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2021,73.6399993896484
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2021,
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,5.457
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2021,0.38806468
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2021,28.3
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2021,85.6409873713909
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2021,4546.229700062892
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2021,5.53498316
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2021,2.025
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2021,75.8233419830013
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2021,92.0505329995059
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2021,89.9
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2021,90.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2021,66.144235274522
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2021,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2021,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,12.241
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2021,1.76734555
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2021,6.6
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2021,91.9800637956542
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2021,14316.135222556668
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2021,5.19427729
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2021,1.995
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2021,94.2083491070029
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2021,89.5988356123165
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2021,100.0
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2021,97.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2021,19.8266275195269
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2021,91.6399993896484
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2021,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,4.981
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2021,2.2609117
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2022,59.7
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2022,37.4490104990348
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2022,5526.279283102131
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2022,2.90354776
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2022,3.662
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2022,71.7686736729802
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2022,90.6704556362056
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2022,95.0
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2022,82.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2022,38.3740439760816
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2022,
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2022,
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,5.291
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2022,1.10770965
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2022,29.5
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2022,80.4518698611689
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2022,8347.384786470864
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2022,3.39623499
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2022,1.994
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2022,77.8161883735175
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2022,94.4191311935781
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2022,99.2
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2022,95.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2022,34.7555673994206
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2022,69.0999984741211
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2022,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,4.822
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2022,1.37196231
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2022,30.7
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2022,72.2731144156835
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2022,7888.1638909830435
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2022,2.21544909
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2022,2.179
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2022,63.6502711298232
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2022,98.5792972461401
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2022,99.4
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2022,96.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2022,31.673734726234
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2022,76.5400009155273
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2022,
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,4.593
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2022,0.34193528
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2022,27.1
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2022,84.9171356280891
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2022,4763.387510739456
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2022,6.52950287
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2022,2.002
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2022,79.1866571655946
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2022,92.5870336093326
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2022,91.3
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2022,90.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2022,66.2992968721053
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2022,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2022,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,10.661
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2022,2.08633423
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2022,6.3
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2022,90.6491955714904
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2022,13249.065050520132
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2022,3.98300457
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2022,1.984
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2022,94.9480533011818
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2022,89.8964005892061
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2022,100.0
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2022,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2022,19.9877933196367
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2022,91.7600021362305
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2022,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,4.528
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2022,1.52578461
+Pakistan,PAK,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2023,57.8
+Pakistan,PAK,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2023,39.5879695501278
+Pakistan,PAK,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2023,5418.769318929704
+Pakistan,PAK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2023,2.51988316
+Pakistan,PAK,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2023,3.605
+Pakistan,PAK,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2023,71.8243245387853
+Pakistan,PAK,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2023,90.6815872292919
+Pakistan,PAK,Access to electricity (% of population),EG.ELC.ACCS.ZS,2023,95.6
+Pakistan,PAK,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2023,84.0
+Pakistan,PAK,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2023,38.8191861872791
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2023,
+Pakistan,PAK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2023,
+Pakistan,PAK,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,5.237
+Pakistan,PAK,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2023,0.90008724
+India,IND,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2023,28.0
+India,IND,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2023,78.7503140925354
+India,IND,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2023,8870.550276093447
+India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2023,3.33944035
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2023,1.975
+India,IND,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2023,80.6978943350927
+India,IND,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2023,95.0740565981493
+India,IND,Access to electricity (% of population),EG.ELC.ACCS.ZS,2023,99.5
+India,IND,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2023,93.0
+India,IND,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2023,35.0676918424186
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2023,74.8600006103516
+India,IND,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2023,
+India,IND,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,4.172
+India,IND,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2023,1.30319667
+Bangladesh,BGD,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2023,30.6
+Bangladesh,BGD,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2023,71.5461976300242
+Bangladesh,BGD,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2023,8242.397989772422
+Bangladesh,BGD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2023,2.17014575
+Bangladesh,BGD,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2023,2.163
+Bangladesh,BGD,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2023,65.6304136319171
+Bangladesh,BGD,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2023,98.6816683567859
+Bangladesh,BGD,Access to electricity (% of population),EG.ELC.ACCS.ZS,2023,99.5
+Bangladesh,BGD,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2023,96.0
+Bangladesh,BGD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2023,32.1578465036834
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2023,
+Bangladesh,BGD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2023,
+Bangladesh,BGD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,3.352
+Bangladesh,BGD,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2023,0.31430635
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2023,26.1
+Nepal,NPL,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2023,90.7214299008772
+Nepal,NPL,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2023,4861.230303797002
+Nepal,NPL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2023,6.15843678
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2023,1.984
+Nepal,NPL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2023,82.5877911140468
+Nepal,NPL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2023,93.1169638221139
+Nepal,NPL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2023,94.0
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2023,93.0
+Nepal,NPL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2023,66.5432933453944
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2023,
+Nepal,NPL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2023,
+Nepal,NPL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,10.437
+Nepal,NPL,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2023,1.92793751
+Sri Lanka,LKA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,2023,6.1
+Sri Lanka,LKA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,2023,90.4491165297148
+Sri Lanka,LKA,"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,2023,13065.069830572234
+Sri Lanka,LKA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2023,3.68313766
+Sri Lanka,LKA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2023,1.974
+Sri Lanka,LKA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,2023,95.3491933910345
+Sri Lanka,LKA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,2023,90.1950284141998
+Sri Lanka,LKA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2023,100.0
+Sri Lanka,LKA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,2023,99.0
+Sri Lanka,LKA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2023,20.1455348442463
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,2023,91.9700012207031
+Sri Lanka,LKA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,2023,
+Sri Lanka,LKA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,4.528
+Sri Lanka,LKA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,2023,1.23655903

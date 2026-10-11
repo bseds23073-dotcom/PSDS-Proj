@@ -1,0 +1,92 @@
+=== SIX THINGS ===
+1 missing cells per indicator:
+ skilled_birth     72
+fem_literacy      62
+fem_sec_enrol     22
+health_exp_gdp     0
+2 duplicated country-year rows: 0
+3 dtypes not numeric: []
+4 percent columns outside 0-100: 0 | u5mr range 6.1 107.9
+5 country names with stray whitespace/non-ascii: []
+6 largest single-year relative jump, top 3:
+ unemployment     3.61
+u5mr             0.91
+skilled_birth    0.81
+   max abs yoy change u5mr 15.0
+   max abs yoy change gdp_pc_ppp 1067.07
+regional aggregates present: []
+
+=== MISSINGNESS PATTERN (enrolment) ===
+country
+Bangladesh                                               [2014]
+Nepal                                              [2004, 2018]
+Pakistan             [2000, 2001, 2002, 2003, 2004, 2005, 2020]
+Sri Lanka     [2000, 2001, 2002, 2003, 2004, 2005, 2006, 200...
+rows with enrolment: 98 of 120
+fem_literacy non-missing years by country: {'Bangladesh': 13, 'India': 11, 'Nepal': 6, 'Pakistan': 14, 'Sri Lanka': 14}
+skilled_birth non-missing years by country: {'Bangladesh': 15, 'India': 6, 'Nepal': 9, 'Pakistan': 14, 'Sri Lanka': 4}
+enrolment missing share 2000-2011: 0.28, 2012-2023: 0.08
+mean u5mr / GDP for rows with vs without enrolment:
+        u5mr  gdp_pc_ppp
+miss                   
+False  50.3      5628.4
+True   44.9      6484.0
+
+=== TRANSFORMATION ===
+skew gdp_pc_ppp 1.45 -> log 0.58
+
+=== CONFOUNDER CHECK: female secondary enrolment vs u5mr ===
+complete-case rows: 98
+pooled corr: -0.93
+by country corr: {'Bangladesh': -0.83, 'India': -0.99, 'Nepal': -0.97, 'Pakistan': -0.97, 'Sri Lanka': 0.41}
+coef on enrolment (u5mr points per +1 pp):
+  (a) alone            -1.02
+  (b) + country FE     -1.05
+  (c) + FE + log GDP   -0.28
+  (d) + FE + logGDP + year trend -0.14
+  (e) + FE + year only -0.19
+  (f) drop Sri Lanka, FE+logGDP -0.23
+
+=== PREDICTION ===
+all 120 rows, base features | time split (train<=2015, test 2016-23)
+   mean baseline  MAE 26.2  R2 -1.52
+   ridge          MAE 3.8  R2 0.94
+   random forest  MAE 3.4  R2 0.94
+all 120 rows, base features | leave-one-country-out
+   mean baseline  MAE 26.7  R2 -0.39
+   ridge          MAE 15.5  R2 0.55
+   random forest  MAE 11.8  R2 0.69
+98 complete rows, base | time split (train<=2015, test 2016-23)
+   mean baseline  MAE 27.1  R2 -1.90
+   ridge          MAE 3.9  R2 0.93
+   random forest  MAE 2.9  R2 0.96
+98 complete rows, base | leave-one-country-out
+   mean baseline  MAE 22.1  R2 -0.22
+   ridge          MAE 15.4  R2 0.42
+   random forest  MAE 8.3  R2 0.80
+98 complete rows, base + enrolment | time split (train<=2015, test 2016-23)
+   mean baseline  MAE 27.1  R2 -1.90
+   ridge          MAE 4.4  R2 0.92
+   random forest  MAE 2.8  R2 0.96
+98 complete rows, base + enrolment | leave-one-country-out
+   mean baseline  MAE 22.1  R2 -0.22
+   ridge          MAE 15.6  R2 0.40
+   random forest  MAE 8.8  R2 0.78
+LOCO per held-out country (ridge, base features, 120 rows):
+   Bangladesh  MAE 8.3
+   India       MAE 13.9
+   Nepal       MAE 30.3
+   Pakistan    MAE 5.6
+   Sri Lanka   MAE 19.5
+
+SENSITIVITY: drop unemployment (Pakistan series jumps 0.80 -> 3.67 in 2012), all 120 rows
+  time split
+   mean baseline  MAE 26.2  R2 -1.52
+   ridge          MAE 3.6  R2 0.94
+   random forest  MAE 3.5  R2 0.93
+  leave-one-country-out
+   mean baseline  MAE 26.7  R2 -0.39
+   ridge          MAE 14.3  R2 0.60
+   random forest  MAE 11.7  R2 0.69
+
+figures saved: ['01_u5mr_trends.png', '02_missingness_map.png', '03_enrolment_vs_u5mr.png', '04_log_transform.png', '05_prediction_time_split.png']

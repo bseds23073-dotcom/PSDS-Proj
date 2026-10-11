@@ -1,0 +1,7 @@
+# Limitations and next steps (DRAFT: edit in your own words)
+
+This dataset cannot say what causes child mortality to fall. It has five countries and 24 years, but the years within a country move together, so the effective sample is far smaller than the 120 rows suggest, and national averages say nothing about which children or regions are affected (an ecological problem). The outcome is a modelled estimate rather than a count, enrolment is a gross ratio that can overstate participation, and the two most relevant extra indicators (female literacy and skilled birth attendance) are missing for more than half of the country-years.
+
+The biggest risk to the framed question is that female education, income and time all rise together, which is why the enrolment coefficient falls from -1.02 to -0.14 once GDP and a year trend are included. A second risk is the prediction claim: the models work for these countries over time but not for an unseen country, so they should not be used to predict for other places.
+
+Next steps: add the other South Asian countries so country-level validation means something; use year-to-year changes instead of levels to reduce the shared-trend problem; read the UN IGME documentation to confirm the Sri Lanka 2004 and 2009 spikes and the Pakistan 2012 unemployment break; and look for survey data (for example household surveys) that record mortality by mother's education.
