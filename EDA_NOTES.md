@@ -1,4 +1,4 @@
-# EDA v1 (DRAFT: numbers are from reports/analysis_output.txt; re-run before you submit and rewrite in your own words)
+# EDA v1
 
 **Charts** (in `figures/`, each with a headline title and a caption). 01_u5mr_trends.png: "Under-5 mortality fell in all five countries, but Pakistan stays highest" (modelled UN IGME estimates, 2000-2023). 02_missingness_map.png: "Education and birth-care data have large gaps, worst for Sri Lanka's enrolment" (dark means a value is present). 03_enrolment_vs_u5mr.png: "Higher female enrolment goes with lower child mortality, pooled and within countries" (pooled line on the left, one line per country on the right). 04_log_transform.png: "Logging GDP per capita pulls in the long right tail". 05_prediction_time_split.png: "Models predict 2016-23 mortality well when trained on earlier years".
 
